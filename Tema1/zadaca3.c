@@ -6,7 +6,7 @@ int main()
 {
     int number1;
     scanf("%d", &number1);
-    int result = number1*1;
-    printf("The result is: %d", result %17==0);
+    int result = number1 %17==0;
+    printf("The result is: %d", result);
     return 0;
 }

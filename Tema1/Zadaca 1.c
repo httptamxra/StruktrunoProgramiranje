@@ -11,7 +11,7 @@ int main()
     scanf("%d",&number1);
     scanf("%d",&number2);
   
-    int result = number1 - number2;
+    int result = number1 + number2;
   
     printf("The result is:%d", result %2==0);
   

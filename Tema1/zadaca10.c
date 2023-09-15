@@ -9,7 +9,7 @@ int main()
     int pi =3.14;
     scanf("%d", &r);
     scanf("%d", &h);
-    int V = pi*(pow(r,2)*h;
+    int V = pi*(pow(r,2))*h;
     printf("V is:%d", V);
     return 0;
 }
